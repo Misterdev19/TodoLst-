@@ -40,4 +40,7 @@ if(!function_exists('ejecutarConsulta')){
     }
 }
 
+
+
+print_r($rps);
 ?>
